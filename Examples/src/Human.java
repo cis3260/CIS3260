@@ -1,7 +1,7 @@
 
 public class Human {
-	private String name;
-	private double age;
+	String name;
+	double age;
 	
 	void sayHello(){
 		System.out.println("Hello!");
