@@ -5,7 +5,7 @@ public class TV {
 	boolean isLED; // if the TV LED then this variable should be true; otherwise it should be false
 	boolean is4K;
 	int screenSize;
-	int numberOfHDMIInputs;
+	int numberOfHdmiInputs;
 	double price;
 	boolean status; // this variable shows whether the TV is on or off
 	
